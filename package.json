@@ -1,5 +1,5 @@
 {
-  "name": "ab-testing",
+  "name": "@kurtprp/ab-testing",
   "version": "3.1.8",
   "description": "A/B testing made easy.",
   "main": "index.js",
